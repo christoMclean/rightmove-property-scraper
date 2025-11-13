@@ -1,0 +1,3 @@
+onschema
+requests
+beautifulsoup4
