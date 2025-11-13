@@ -1,0 +1,5 @@
+{
+  "userAgent": "Mozilla/5.0",
+  "timeout": 10,
+  "maxListings": 1000
+}
