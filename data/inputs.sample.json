@@ -1,0 +1,16 @@
+[
+  {
+    "id": 12345,
+    "url": "https://www.rightmove.co.uk/property/12345",
+    "summary": "Sample property",
+    "address": "10 Sample Road, London",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": { "amount": 250000, "currency": "GBP" },
+    "images": [
+      { "srcUrl": "https://example.com/image1.jpg", "caption": "Front" }
+    ],
+    "map": { "lat": 51.5, "lng": -0.12 },
+    "channel": "SALE"
+  }
+]
